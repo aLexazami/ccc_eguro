@@ -98,10 +98,10 @@ SMTP_PASS =
     * LAMP: /var/www/html/dev_e_eguro
     * MAMP: /Applications/MAMP/htdocs/dev_e_eguro
 
-**Database Setup**: 
-  1. Open your database management tool (phpMyAdmin, DBeaver, MySQL Workbench)[cite: 3].
-  2. Create the target schema:
+* **Database Setup**: 
+    1. Open your database management tool (phpMyAdmin, DBeaver, MySQL Workbench).
+    2. Create the target schema:
     ```sql
     CREATE DATABASE e_eguro CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
     ```
-  3. Import your database SQL seed directly into `e_eguro`[cite: 3].
+    3. Import your database SQL seed directly into `e_eguro`.
