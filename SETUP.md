@@ -73,7 +73,7 @@ SMTP_PASS =
 ```
 
 ## **Environment Variable Reference**
-   **Variable Name**	       **Category**	      **Description & Functional Purpose**
+    **Variable Name**	      **Category**	      **Description & Functional Purpose**
     * SYSTEM_ACCESS_NAME      System Core         System branding and global identification label.  
     * SYSTEM_FLAG             System Core         Global toggle. DEV enables diagnostic logs; PROD secures system silence.  
     * FILE_VERSION            System Core         Revision identifier for configuration schema compatibility.  
