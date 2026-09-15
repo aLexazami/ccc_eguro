@@ -7,11 +7,11 @@ Official web application, central identity provider, and management information 
 ## Technical Specifications & Stack
 
 * **Core Engine:** PHP 7.4 – 8.x
-* **Database Target:** MySQL / MariaDB (`e_e_eguro`)
+* **Database Target:** MySQL / MariaDB (`e_eguro`)
 * **Architecture:** Modular MVC / Front-Controller layout with custom `.env` runtime parser
 * **Default Timezone:** `Asia/Manila` (`UTC+8`)
 * **Max Payload Limit:** `20MB`
-* **Session Strategy:** AES-256-CBC encrypted dynamic sessions (`e_e_dev_eguro_session` / `eguro_session`)
+* **Session Strategy:** AES-256-CBC encrypted dynamic sessions (`dev_e_eguro_session` / `e_eguro_session`)
 
 ---
 
