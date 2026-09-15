@@ -1,0 +1,120 @@
+:root {
+    --color-accent-blue: hsl(223, 98%, 43%);
+    --color-accent-blue-text: hsl(223, 98%, 43%);
+    --color-accent-blue-btn-bg: hsl(223, 98%, 55%);
+    --color-accent-blue-btn-bg-hover: hsl(223, 98%, 48%);
+    --color-accent-blue-border: hsl(223, 98%, 82%);
+    --color-accent-blue-subtle-bg: hsl(223deg, 98%, 96%);
+
+    --color-accent-darkblue: hsl(228, 100%, 25%);
+    --color-accent-darkblue-text: hsl(228, 100%, 25%);
+    --color-accent-darkblue-btn-bg: hsl(228, 100%, 25%);
+    --color-accent-darkblue-btn-bg-hover: hsl(228, 100%, 20%);
+    --color-accent-darkblue-border: hsl(228deg, 22%, 72%);
+    --color-accent-darkblue-subtle-bg: hsl(228, 100%, 96%);
+
+    /* e-guro++ */
+    --eguro: #00104c;
+    --color-text: hsl(227, 100%, 15%);
+    --color-btn-bg: hsl(227deg, 100%, 15%);
+    --color-btn-bg-hover: hsl(227deg, 100%, 35%);
+    --color-border: hsl(227deg 100% 47%);
+    --color-subtle-bg: hsl(227deg, 100%, 92%);
+    --color-subtle-bg-hover-2: hsl(227deg, 100%, 96%);
+
+    /* eguro lms */
+    --lms: #00104c;
+
+    /* eams */
+    --eams: #0f2a71;
+
+    /* esked */
+    --esked: #1d4ed8;
+
+    /* eclearance */
+    --eclearance: #1e40af;
+
+    /* monitoring */
+    --monitoring: #382956;
+
+    /* supervisor */
+    --supervisor: #6e1240;
+    /* website */
+    --website: #063cd4;
+
+    /* enroll */
+    --enroll: #2463eb;
+
+    /* inventory */
+    --inventory: #1e3a8a;
+
+    --color-white: hsl(0, 0%, 100%);
+    --color-black: hsl(0, 0%, 0%);
+
+    --color-gray-0: hsl(0, 0%, 98%);
+    --color-gray-1: hsl(0, 0%, 96%);
+    --color-gray-2: hsl(0, 0%, 90%);
+    --color-gray-3: hsl(0, 0%, 83%);
+    --color-gray-4: hsl(0, 0%, 64%);
+    --color-gray-5: hsl(0, 0%, 45%);
+    --color-gray-6: hsl(0, 0%, 32%);
+    --color-gray-7: hsl(0, 0%, 25%);
+    --color-gray-8: hsl(0, 0%, 15%);
+    --color-gray-9: hsl(0, 0%, 9%);
+
+    --font-size-xs: 0.75rem;
+    --font-size-s: 0.875rem;
+    --font-size-default: 1rem;
+    --font-size-l: 1.125rem;
+    --font-size-xl: 1.25rem;
+    --font-size-2xl: 1.5rem;
+    --font-size-3xl: 1.875rem;
+    --font-size-4xl: 2rem;
+    --font-size-5xl: 2.125rem;
+
+    --z-negative: -1;
+    --z-elevate: 1;
+    --z-dropdown: 100;
+    --z-sticky: 200;
+    --z-fixed: 250;
+    --z-modal-backdrop: 400;
+    --z-modal: 450;
+    --z-popover: 600;
+    --z-tooltip: 650;
+}
+
+:root {
+    /* Palette Variables */
+    --blue: #063cd4;
+    --dark-blue: #002366;
+    --dark-green: #006c40;
+    --red: #891811;
+    --gold: #ffc107;
+    --cyan: #38bdf8;
+    --deep-navy: #0f172a;
+    --pink: #ec4899;
+    --white: #ffffff;
+    --black: #000000;
+    --lime: #84cc16;
+
+    /* Base Theme Defaults */
+    --bg-color: #f3f4f6;
+    --card-bg: #ffffff;
+    --primary-accent: #10b981;
+    --text-main: #111827;
+    --text-muted: #6b7280;
+    --border-color: #e5e7eb;
+    --shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.08);
+    --backdrop: none;
+
+    /* Default Glow Fallbacks */
+    --glow-1: var(--primary-accent);
+    --glow-2: #06b6d4;
+
+    /* Back-To-Top Specific Variables */
+    --b2t-bg: #2563eb;
+    --b2t-color: #ffffff;
+    --b2t-border: #2563eb;
+    --b2t-hover-bg: #1d4ed8;
+    --b2t-hover-color: #ffffff;
+}
