@@ -10,12 +10,15 @@ use Exception;
  * Manages state, authentication checks, session attributes, and cached profile details 
  * for the currently logged-in user session.
  */
+#[\AllowDynamicProperties]
 class AppContext
 {
     private array $dataFields = [
         'user_id'             => 'user_id',
         'system_role'         => 'system_role',
-        'browser_fingerprint' => 'browser_fingerprint'
+        'browser_fingerprint' => 'browser_fingerprint',
+        'user_role'           => 'user_role',
+        'user_role_id'        => 'user_role_id'
     ];
 
     protected $db;
@@ -25,6 +28,8 @@ class AppContext
     protected $user_id = null;
     protected $system_role = null;
     protected $browser_fingerprint = null;
+    protected $user_role = null;
+    protected $user_role_id = null;
 
     /**
      * AppContext Constructor.
