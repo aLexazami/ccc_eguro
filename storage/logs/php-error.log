@@ -56,3 +56,331 @@
 [14-Sep-2026 10:22:12 Asia/Manila] Failed to connect to Database: Unknown database 'e_e_dev_eguro'
 [14-Sep-2026 10:26:26 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'e_e_dev_eguro' in C:\xampp\htdocs\dev_e_eguro\src\Database\connect.php on line 12
 [14-Sep-2026 10:26:26 Asia/Manila] Failed to connect to Database: Unknown database 'e_e_dev_eguro'
+[17-Sep-2026 07:20:02 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:02 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:03 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:03 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:23 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:23 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:23 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:23 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:30 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:30 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:30 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:30 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:31 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:31 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:31 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:31 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:32 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:32 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:32 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:20:32 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:37 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:37 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:49 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:49 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:52 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:52 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:54 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:30:54 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:31:10 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:31:10 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:31:11 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:31:11 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:31:16 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:31:16 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:32:24 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:32:24 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:32:32 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:32:32 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:17 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:17 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:38:18 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:47:12 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:47:12 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:47:22 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 07:47:22 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:18:50 Asia/Manila] Error API JSON Match: 4 DATA: <!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>e-GURO++</title>
+  <link rel="shortcut icon" href="./upload/img/egpp-mobile.png">
+  <style>
+    * {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    #notfound {
+      position: relative;
+      height: 100vh;
+      background: #ffa200;
+      color: white;
+    }
+
+    #notfound .notfound {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    .notfound {
+      max-width: 460px;
+      width: 100%;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    .notfound .notfound-404 {
+      position: relative;
+      width: 180px;
+      height: 180px;
+      margin: 0px auto 50px;
+    }
+
+    .notfound .notfound-404>div:first-child {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background: #ffa200;
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+      border: 5px solid white;
+      border-radius: 5px;
+    }
+
+    .notfound .notfound-404>div:first-child:before {
+      content: '';
+      position: absolute;
+      left: -5px;
+      right: -5px;
+      bottom: -5px;
+      top: -5px;
+      -webkit-box-shadow: 0px 0px 0px 5px rgba(0, 0, 0, 0.1) inset;
+      box-shadow: 0px 0px 0px 5px rgba(0, 0, 0, 0.1) inset;
+      border-radius: 5px;
+    }
+
+    .notfound .notfound-404 h1 {
+      font-family: 'Cabin', sans-serif;
+      color: white;
+      font-weight: 700;
+      margin: 0;
+      font-size: 90px;
+      position: absolute;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      left: 50%;
+      text-align: center;
+      height: 40px;
+      line-height: 40px;
+    }
+
+    .notfound h2 {
+      font-family: 'Cabin', sans-serif;
+      font-size: 33px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 7px;
+    }
+
+    .notfound p {
+      font-family: 'Cabin', sans-serif;
+      font-size: 16px;
+      color: white;
+      font-weight: 400;
+    }
+
+
+
+    .notfound a:hover {
+      background-color: #2c2c2c;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="notfound">
+    <div class="notfound">
+      <div class="notfound-404">
+        <div class="box"></div>
+        <h1>404</h1>
+      </div>
+      <h2>Page not found</h2>
+      <p>The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
+    </div>
+  </div>
+</body>
+
+</html>
+[17-Sep-2026 08:26:47 Asia/Manila] Error API JSON Match: 4 DATA: <!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>e-GURO++</title>
+  <link rel="shortcut icon" href="./upload/img/egpp-mobile.png">
+  <style>
+    * {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    #notfound {
+      position: relative;
+      height: 100vh;
+      background: #ffa200;
+      color: white;
+    }
+
+    #notfound .notfound {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    .notfound {
+      max-width: 460px;
+      width: 100%;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    .notfound .notfound-404 {
+      position: relative;
+      width: 180px;
+      height: 180px;
+      margin: 0px auto 50px;
+    }
+
+    .notfound .notfound-404>div:first-child {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background: #ffa200;
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+      border: 5px solid white;
+      border-radius: 5px;
+    }
+
+    .notfound .notfound-404>div:first-child:before {
+      content: '';
+      position: absolute;
+      left: -5px;
+      right: -5px;
+      bottom: -5px;
+      top: -5px;
+      -webkit-box-shadow: 0px 0px 0px 5px rgba(0, 0, 0, 0.1) inset;
+      box-shadow: 0px 0px 0px 5px rgba(0, 0, 0, 0.1) inset;
+      border-radius: 5px;
+    }
+
+    .notfound .notfound-404 h1 {
+      font-family: 'Cabin', sans-serif;
+      color: white;
+      font-weight: 700;
+      margin: 0;
+      font-size: 90px;
+      position: absolute;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      left: 50%;
+      text-align: center;
+      height: 40px;
+      line-height: 40px;
+    }
+
+    .notfound h2 {
+      font-family: 'Cabin', sans-serif;
+      font-size: 33px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 7px;
+    }
+
+    .notfound p {
+      font-family: 'Cabin', sans-serif;
+      font-size: 16px;
+      color: white;
+      font-weight: 400;
+    }
+
+
+
+    .notfound a:hover {
+      background-color: #2c2c2c;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="notfound">
+    <div class="notfound">
+      <div class="notfound-404">
+        <div class="box"></div>
+        <h1>404</h1>
+      </div>
+      <h2>Page not found</h2>
+      <p>The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
+    </div>
+  </div>
+</body>
+
+</html>
+[17-Sep-2026 08:27:11 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:27:11 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:27:11 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:27:11 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:27:46 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:27:46 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:27:46 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
+[17-Sep-2026 08:27:46 Asia/Manila] PHP Deprecated:  Creation of dynamic property Src\Common\AppContext::$user_role_id is deprecated in C:\xampp\htdocs\dev_e_eguro\src\Common\AppContext.php on line 92
